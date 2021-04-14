@@ -1,0 +1,2 @@
+# FastJsonAutoTypeBypass
+FastJsonAutoTypeBypass
